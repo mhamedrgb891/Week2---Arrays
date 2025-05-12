@@ -1,6 +1,6 @@
 # Week 2 – Arrays and Memory Basics 
 
- Part of **CS50x 2024 – Introduction to Computer Science by Harvard University**
+ Part of **CS50x 2025 – Introduction to Computer Science by Harvard University**
 
 ##  Overview
 This week focused on arrays and how data is stored and accessed in memory. We explored how to work with sequences of data and simple searching and sorting algorithms.
